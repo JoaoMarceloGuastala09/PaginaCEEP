@@ -129,5 +129,23 @@ footer {
     padding: 20px;
     margin-top: 20px;
     border-top: 1px solid #495057;
-    
+   
+}
+
+@media(max-width: 768px){
+    header h1{
+        font-size: 1.8rem;
+    }
+
+    nav ul li {
+        margin: 0 10px;
+    }
+
+    main {
+        padding: 15px;
+    }
+
+    section h2 {
+         font-size: 1.6rem; 
+    }
 }
