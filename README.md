@@ -9,3 +9,5 @@
 ## 02/06/2025 - Adicionando novas aquivos html
 ---
 ## 05/06/2025 - 
+---
+## 27/06/2025 - Diminuindo logo ceep clicável
