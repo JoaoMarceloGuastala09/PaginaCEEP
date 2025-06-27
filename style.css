@@ -148,14 +148,14 @@ footer {
     text-align: center;
     padding: 20px;
     margin-top: 30px;
-    border-top: 1px solid #495057;ssssss
+    border-top: 1px solid #495057;
 }
 
 @media(max-width: 768px){
     header h1{
         font-size: 1.8rem;
     }
-
+        
     nav ul li {
         margin: 0 10px;
     }
